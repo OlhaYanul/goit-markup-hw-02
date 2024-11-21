@@ -60,7 +60,7 @@ body {
     color: #404bbf;
 }
 
-.box1 {
+.main-box {
     background: #2e2f42;
 }
 
@@ -73,7 +73,7 @@ body {
     color: #fff;
 }
 
-.button-main-box1 {
+.click-main-box1 {
     cursor: pointer;
     font-family: "Roboto", sans-serif;
     font-weight: 500;
@@ -84,8 +84,8 @@ body {
     background: #4d5ae5;
 }
 
-.button-main-box1:hover,
-.button-main-box1:focus {
+.click-main-box1:hover,
+.click-main-box1:focus {
     background: #404bbf;
 }
 
@@ -97,7 +97,7 @@ body {
     color: #434455;
 }
 
-.box3 .main-text {
+.team-box .main-text {
     text-align: center;
     color: #434455;
 }
@@ -120,7 +120,7 @@ body {
     color: #2e2f42;
 }
 
-.box3 {
+.team-box {
     background: #f4f4fd;
 }
 
@@ -128,7 +128,7 @@ body {
     background: #ffffff;
 }
 
-.box3 .prg-title {
+.team-box .prg-title {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;

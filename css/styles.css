@@ -84,8 +84,8 @@ body {
     background: #4d5ae5;
 }
 
-.click-main-box1:hover,
-.click-main-box1:focus {
+.click-main-box:hover,
+.click-main-box:focus {
     background: #404bbf;
 }
 
